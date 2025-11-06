@@ -1,0 +1,3 @@
+E:/aktualna_informatyka/zadanie3a/cmake-build-debug/CMakeFiles/zadanie3a.dir
+E:/aktualna_informatyka/zadanie3a/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/aktualna_informatyka/zadanie3a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
